@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdakram" alt="mhmdakram" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mhmdakram.vercel.app/](https://mhmdakram.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mhmdakram.vercel.app/work](https://mhmdakram.vercel.app/work)
 
 - 💬 Ask me about **reactjs, nextjs and fastapi.**
 
@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdakram&show_icons=true&theme=dark&locale=en" alt="mhmdakram" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdakram&theme=dark" alt="mhmdakram" /></p>
